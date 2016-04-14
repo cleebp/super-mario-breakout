@@ -6,7 +6,7 @@ I built this project using modern opengl (shaders) as my final project for my gr
 
 ## Video Walkthrough
 
-[![walkthrough video](http://img.youtube.com/vi/https://youtu.be/sngWY6lbA60/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/sngWY6lbA60)
+[![walkthrough video](https://img.youtube.com/vi/sngWY6lbA60/0.jpg)](https://www.youtube.com/watch?v=sngWY6lbA60)
 
 ## Features
 
